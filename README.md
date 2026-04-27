@@ -149,9 +149,18 @@ dq_pipeline/
 
 # loking into the bronze table
 
-# SELECT * FROM bronze."teen_mental_health_dataset_-_copy_bronze" 
-# LIMIT 5;
+ SELECT * FROM bronze."teen_mental_health_dataset_-_copy_bronze" 
+ LIMIT 5;
 
 # loking for the solver table
-# SELECT * FROM silver."teen_mental_health_dataset_-_copy_silver" 
-# LIMIT 5;
+ SELECT * FROM silver."teen_mental_health_dataset_-_copy_silver" 
+  LIMIT 5;
+
+
+  🧠 Author
+
+Hitesh Warhate
+B.Tech IT | Backend Developer | AI & Data Enthusiast
+
+Yash Shinde
+B.Tech IT | LLM Engineer | AI & Data Enthusiast
